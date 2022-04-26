@@ -1,5 +1,5 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyBgB6WA8fXuZXT6tALe1ow4b8ivsIvntfE",
+    apiKey: "AIzaSyBgB6WA8fXuZXT6tALe1ow4b8ivsIvntfE",
   authDomain: "pruebaclase-bce4b.firebaseapp.com",
   projectId: "pruebaclase-bce4b",
   storageBucket: "pruebaclase-bce4b.appspot.com",
@@ -7,8 +7,8 @@ var firebaseConfig = {
   appId: "1:83939974179:web:7cb94b52ada87f9a0de596"
 };
 
-
-  firebase.initializeApp(firebaseConfig);
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
 	user_name = localStorage.getItem("user_name");
 	room_name = localStorage.getItem("room_name");
 
