@@ -1,11 +1,11 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyBQyjrjTsIQsGMGcgu-cr1HjszcHi5ZWMk",
-  authDomain: "testkwitter.firebaseapp.com",
-  databaseURL: "https://testkwitter.firebaseio.com",
-  projectId: "testkwitter",
-  storageBucket: "testkwitter.appspot.com",
-  messagingSenderId: "624653701634",
-  appId: "1:624653701634:web:2cb9a8bd873f17d92d8d1b"
+  apiKey: "AIzaSyDzEVTLc9bT6fjzALEuCR4DiwRq4s6_OUU",
+  authDomain: "adv-c100clase-dcf24.firebaseapp.com",
+  databaseURL: "https://adv-c100clase-dcf24-default-rtdb.firebaseio.com",
+  projectId: "adv-c100clase-dcf24",
+  storageBucket: "adv-c100clase-dcf24.appspot.com",
+  messagingSenderId: "581572338296",
+  appId: "1:581572338296:web:8b9d99cacfd22e3ee3c38d"
 
 };
 
